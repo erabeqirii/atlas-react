@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/atlas-react/static/css/main.e6eb7bc1.css",
-    "main.js": "/atlas-react/static/js/main.2f720ed0.js",
+    "main.js": "/atlas-react/static/js/main.c0a6bb5d.js",
     "static/js/787.d3befce1.chunk.js": "/atlas-react/static/js/787.d3befce1.chunk.js",
     "static/media/phone-in-hand-desktop.webp": "/atlas-react/static/media/phone-in-hand-desktop.fb1143618f1be37cb409.webp",
     "static/media/travel-desktop.webp": "/atlas-react/static/media/travel-desktop.8514fc3079a1fa38f810.webp",
@@ -21,11 +21,11 @@
     "static/media/atlas-card-poster-end.webp": "/atlas-react/static/media/atlas-card-poster-end.4855defd67643cf019f3.webp",
     "index.html": "/atlas-react/index.html",
     "main.e6eb7bc1.css.map": "/atlas-react/static/css/main.e6eb7bc1.css.map",
-    "main.2f720ed0.js.map": "/atlas-react/static/js/main.2f720ed0.js.map",
+    "main.c0a6bb5d.js.map": "/atlas-react/static/js/main.c0a6bb5d.js.map",
     "787.d3befce1.chunk.js.map": "/atlas-react/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6eb7bc1.css",
-    "static/js/main.2f720ed0.js"
+    "static/js/main.c0a6bb5d.js"
   ]
 }
